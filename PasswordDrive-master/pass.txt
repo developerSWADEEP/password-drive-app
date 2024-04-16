@@ -1,0 +1,9 @@
+Keystore pass:-@r8059126255
+Alias:-key0-@r8059126255
+Year:-25
+First and Last Name:-Rahul Tanwar
+Orfanization Unit:-Mobile App Development
+Organization:-Error Smasher
+City or Location:-Palwal
+State or Province:-Haryana
+Country Code:-IN

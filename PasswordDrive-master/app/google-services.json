@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "93159829513",
+    "project_id": "error-smasher",
+    "storage_bucket": "error-smasher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93159829513:android:1a37a5b4166b80a43048d8",
+        "android_client_info": {
+          "package_name": "com.errorsmasher.passworddrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93159829513-kr1gd662484caocneao6vgomd0d0o4op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbYqVku825KtFlDyD0CQDUCnhMmbo3NtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93159829513-kr1gd662484caocneao6vgomd0d0o4op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
